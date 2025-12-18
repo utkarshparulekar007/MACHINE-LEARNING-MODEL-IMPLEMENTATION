@@ -118,3 +118,4 @@ requirements of Task 4 of the CODTECH Python Programming Internship.
 
 # OUTPUT
 
+![Image](https://github.com/user-attachments/assets/d5400db7-7e98-49c7-9463-9caf57484dbc)
